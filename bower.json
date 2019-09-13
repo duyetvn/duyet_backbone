@@ -1,0 +1,13 @@
+{
+  "name": "Marionette Test",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "backbone": "^1.4.0",
+    "underscore": "^1.9.1",
+    "requirejs": "^2.3.6",
+    "backbone.marionette": "3.5.1",
+    "backbone.babysitter": "^0.1.12",
+    "backbone.wreqr": "^1.4.0"
+  }
+}
